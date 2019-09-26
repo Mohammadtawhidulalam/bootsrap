@@ -1,0 +1,47 @@
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  container and container fluid
+  jumbtron and jumbtron fluid
+  for table
+  for pragraph
+  text-muted text-white lead 
+  margin mb-  mt  ml mr my mx 
+  paddign pt pb pl pr py px 
+  blockquote class="blockquote"
+  footer class="blockquote-footer
+  Keyboard Inputs
+ <kbd>ctrl + p</kbd>
+  <code>span</code>, <code>section</code>, and <code>div</code> 
+  <div class="container">
+  <h1>Description Lists</h1>    
+  <p>The dl element indicates a description list:</p>
+  <dl>
+    <dt>Coffee</dt>
+    <dd>- black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>- white cold drink</dd>
+  </dl>     
+</div>
+Bootstrap 4 Image Shapes
+.rounded rounded-circle img-fluid(The .img-fluid class makes the image scale nicely to the parent element (resize the browser window to see the effect):)
+Center an image by adding the utility classes .mx-auto (margin:auto) and .d-block (display:block) to the image:
+Aligning images
+Use the float classes to float the image to the left or to the right:
+.img-thumbnail
+
+Button States/anchor / input (submit)
+.btn .btn-primary disabled .active .btn-block .btn-lg .btn-md .btn-sm
+.btn-outline-primary .btn-outline-denger 
+.btn-group .btn-group-lg .btn-group-sm .btn-group-vertical (in div)
+.dropdown-toggle (in your target toggle button)
+ <div class="btn-group">
+      <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+        Sony
+      </button>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Tablet</a>
+        <a class="dropdown-item" href="#">Smartphone</a>
+      </div>
+    </div>
+Split Buttons
+Nesting Button Groups
+Nest button groups to create dropdown menus
